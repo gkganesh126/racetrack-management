@@ -1,0 +1,34 @@
+[
+    
+        {
+            "raceTrackType" : "REGULAR",
+            "vehicleType" : "BIKE",
+            "noOfVehiclesAllowed" : 4,
+            "costPerHour" : 60
+        },
+        {
+            "raceTrackType" : "REGULAR",
+            "vehicleType" : "CAR",
+            "noOfVehiclesAllowed" : 2,
+            "costPerHour" : 120
+        },
+       {
+            "raceTrackType" : "VIP",
+            "vehicleType" : "CAR",
+            "noOfVehiclesAllowed" : 1,
+            "costPerHour" : 250
+        },
+       {
+            "raceTrackType" : "REGULAR",
+            "vehicleType" : "SUV",
+            "noOfVehiclesAllowed" : 2,
+            "costPerHour" : 200
+        },
+       {
+            "raceTrackType" : "VIP",
+            "vehicleType" : "SUV",
+            "noOfVehiclesAllowed" : 1,
+            "costPerHour" : 300
+        }
+    
+]
